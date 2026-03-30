@@ -10,8 +10,9 @@ Etudiant | Full Stack Engeener en formation
   </ul>
 </p>
 
-<!-- Badge GMAIL -->
-<a href="mailto:https://mail.google.com/mail/u/0/#inbox">
+<p style= "margin-top: 14px; dislay: flex; justify-content: center;">
+  <!-- Badge GMAIL -->
+<a href="mailto:https://mail.google.com/mail/u/0/#inbox" style= "margin-left= 12px;">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
@@ -19,3 +20,4 @@ Etudiant | Full Stack Engeener en formation
 <a href="https://https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+</p>
