@@ -12,14 +12,14 @@ Etudiant | Full Stack Engeener en formation
 
 <p align="center">
   <!-- Badge GMAIL -->
-<a href="mailto:https://mail.google.com/mail/u/0/#inbox" style= "margin-left: 12px;">
+<a href="mailto:darylmvom01@gmail.com" >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp; <!-- Ceci crée l'espacement entre les deux logos -->
+&nbsp;&nbsp; <!-- Ceci crée l'espacement entre les deux logos -->
 
 <!-- Badge LinkedIn -->
-<a href="https://https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/daryl-mvom-ab04282b7/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
