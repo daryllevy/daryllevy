@@ -9,3 +9,13 @@ Etudiant | Full Stack Engeener en formation
     <li>🎯 Objectif : Créer des interfaces sémantiques et des architectures robustes.</li>
   </ul>
 </p>
+
+<!-- Badge GMAIL -->
+<a href="mailto:https://mail.google.com/mail/u/0/#inbox">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<!-- Badge LinkedIn -->
+<a href="https://https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
